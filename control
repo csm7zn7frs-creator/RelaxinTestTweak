@@ -1,0 +1,9 @@
+Package: com.gf.relaxintest
+Name: RelaxinTest
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 16.5.1), firmware (<< 17.4), mobilesubstrate | ellekit | org.coolstar.ellekit
+Description: Relaxin / RootHide 测试插件：主屏幕 App + SpringBoard 注入检测。
+Maintainer: GF
+Author: GF
+Section: Tweaks
